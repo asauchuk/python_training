@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eb00748b-fa43-4580-bf7f-4ea7208cdbb0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_add_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_add_group.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +19,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_add_group.py">
+        <entry file="file://$PROJECT_DIR$/test/test_add_group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -29,16 +31,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application.py">
+        <entry file="file://$PROJECT_DIR$/fixture/application.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="901">
-              <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+              <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/group.py">
+        <entry file="file://$PROJECT_DIR$/model/group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -61,9 +63,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_add_group.py" />
         <option value="$PROJECT_DIR$/group.py" />
         <option value="$PROJECT_DIR$/application.py" />
+        <option value="$PROJECT_DIR$/test_add_group.py" />
       </list>
     </option>
   </component>
@@ -88,6 +90,21 @@
             <path>
               <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
+              <item name="fixture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_training" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_add_group.py" />
+      <option name="SCRIPT_NAME" value="E:\Programming\testing\python_training\test\test_add_group.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,21 +242,21 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/group.py">
+    <entry file="file://$PROJECT_DIR$/model/group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application.py">
+    <entry file="file://$PROJECT_DIR$/fixture/application.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
-          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_add_group.py">
+    <entry file="file://$PROJECT_DIR$/test/test_add_group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
