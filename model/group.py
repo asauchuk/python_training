@@ -4,3 +4,6 @@ class Group:
         self.header = header
         self.footer = footer
         self.id = id
+
+    def __eq__(self, other):
+        return self.id == other.id and self.name == other.name
